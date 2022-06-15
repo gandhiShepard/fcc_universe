@@ -294,6 +294,7 @@ INSERT INTO public.galaxy VALUES (2, 'snod', 323424, 1203, 'the furthest galaxy'
 INSERT INTO public.galaxy VALUES (3, 'kurr', 567453424, 1403, 'the weirdest galaxy', 14456.54, false);
 INSERT INTO public.galaxy VALUES (5, 'ryst', 36211324, 2033, 'the lamest galaxy', 678456.54, false);
 INSERT INTO public.galaxy VALUES (6, 'quolt', 9911324, 1033, 'the smartest galaxy', 8786.54, false);
+INSERT INTO public.galaxy VALUES (7, 'volder', 234235345, 1999, 'turbo galaxy', 2345.21, false);
 
 
 --
